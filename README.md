@@ -1,5 +1,5 @@
-# Encrypt-Decrypt_txt
-## Simple text file Encrypt &amp; Decrypt using Python program. 
+# Encrypt-Decrypt_txt.py
+## Encrypt &amp; Decrypt a text file using Python program. 
 ***
 ### If we Encrypt a file using Encrypt-Decrypt_txt.py program creates it's key in same Directory.
 ### A file which is going to Decrypt and it's key must be in same Directory to Decrypt that file.
